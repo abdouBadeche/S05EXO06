@@ -1,0 +1,2 @@
+rootProject.name = "S5E6"
+include ':app'
